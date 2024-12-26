@@ -1,5 +1,4 @@
-# Number Parity Checker
-
+# Get Minimum Value of a list
 ## Overview
 
 custom function to find minimum number in a given list by sorting with a reverse bubble sort but doing one iteration only to find the minimum value returning the first element in the list (the minimum value).
